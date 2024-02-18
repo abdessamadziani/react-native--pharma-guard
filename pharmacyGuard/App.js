@@ -25,10 +25,10 @@ export default function App() {
 
    <NavigationContainer>
      <Stack.Navigator>
-        {/* <Stack.Screen name="Signin" component={Signin} />
+         <Stack.Screen name="Signin" component={Signin} />
         <Stack.Screen name="Signup" component={Signup} />
         <Stack.Screen name="ForgetPassword" component={ForgetPassword} />
-        <Stack.Screen name="ResetPassword" component={ResetPassword} /> */}
+        <Stack.Screen name="ResetPassword" component={ResetPassword} /> 
         <Stack.Screen name="Home" component={HomeScreen} /> 
         <Stack.Screen name="api" component={Api} />
      </Stack.Navigator>

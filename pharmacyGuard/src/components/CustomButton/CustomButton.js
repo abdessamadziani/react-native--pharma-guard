@@ -37,6 +37,7 @@ function CustomButton({onPress,text,type='PRIMARY',fgColor}) {
         color:'#FBA1B7',
         fontWeight: 'bold'
     },
+   
   
 
 
